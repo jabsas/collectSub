@@ -1,7 +1,8 @@
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=fda8d35f89c5e5afbb16dabfe4d56aa1
+https://subs.zeabur.app/clash
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 http://s1.subcsyun.online/api/v1/client/subscribe?token=111bc949460d4d7a5109d244e7d5e307
+http://s1.subcsyun.online/api/v1/client/subscribe?token=3f4375945009711cbeae35e99b9a057e
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://rss202407.mugua-sub.com/link/KJcTUT9qI39U4bMr?clash=1
-http://s2.subcsyun.online/api/v1/client/subscribe?token=bc2f739089d6c9c92b3e9cc1652cae5b
+https://pro.76898102.xyz/api/v1/client/subscribe?token=7f0b99c8116d910c1115f2ed992d1c21&amp;flag=meta
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
