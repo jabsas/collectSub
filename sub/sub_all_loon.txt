@@ -1,8 +1,6 @@
-https://mc.jiedianxielou.workers.dev/
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
+https://subs.zeabur.app/clash
 https://mc.jiedianxielou.workers.dev
-https://ng.s2fjeyeeyafe.bond/api/v1/client/subscribe?token=4e9d789dfd79527cdd00d464321d9ed4
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://xs.mashiroshina.top/api/v1/client/subscribe?token=be88e9c38f939b8127ace25dd6c15563
