@@ -1,8 +1,7 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
-https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=65c790da485e084af5536d25ae33eb88
+https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
 https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=fda8d35f89c5e5afbb16dabfe4d56aa1
-https://sub1.timeneverchanges.com/api/v1/client/subscribe?token=ac6302bb615db969a96dc5fcfe4e98e7
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
 http://s4.subcsyun.online/api/v1/client/subscribe?token=e793ceb5b8f7fd37c1e9e977d10db626
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
