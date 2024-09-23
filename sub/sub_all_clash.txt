@@ -1,8 +1,8 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
-https://17852.xyz/api/v1/client/subscribe?token=340ea2540b69f18325e6f32aaa5fe1cc
-https://api.acaisbest.shop/api/v1/client/subscribe?token=ea7046282fc195883735eb31b9cbc8f4
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=fda8d35f89c5e5afbb16dabfe4d56aa1
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
-https://prob.xn--l9qyaz082a.cn/api/v1/client/subscribe?token=43d0b091b796df96d53bbf52a73e1089
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://subs.zeabur.app/clash
+https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=bf334803b5f594aab2206ad6b060994d
+https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
+https://cainiao164.top/api/v1/client/subscribe?token=a720b7622324a62743b933456b33ed69
+https://csgo2.fask511.cfd/api/v1/client/subscribe?token=554274f553d309be286d0a19ab8d3bae
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=8ecf59b49c4a8893221934d0fc2c1986
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
+https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
