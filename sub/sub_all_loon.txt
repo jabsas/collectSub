@@ -1,5 +1,5 @@
+https://mc.jiedianxielou.workers.dev/
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://subs.zeabur.app/clash
-https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
