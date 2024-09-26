@@ -1,11 +1,5 @@
-http://s1.subcsyun.online/api/v1/client/subscribe?token=111bc949460d4d7a5109d244e7d5e307
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
-https://feiniaoyun11.life/api/v1/client/subscribe?token=dc909193125adf8993a68eaed34b0315
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
-https://pro.76898102.xyz/api/v1/client/subscribe?token=7f0b99c8116d910c1115f2ed992d1c21&amp;flag=meta
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=c3159a08ec178eadb8fa89ee5700dd03
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://qingchayun.icu/api/v1/client/subscribe?token=80418297fba5a4f4ac7f21cdcf847e6d
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
