@@ -1,8 +1,6 @@
-http://s2.subcsyun.online/api/v1/client/subscribe?token=6343d52794c212503ed52ec3784f93d9
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
-https://su-b.yun.cat/api/v1/client/subscribe?token=75e8a0dfe32733a947ea0a526ba26fc2
-https://api.xinyo.vip/api/v1/client/subscribe?token=825684aa7107efeabe525c12bd10bd02
+http://s1.subcsyun.online/api/v1/client/subscribe?token=bc2f739089d6c9c92b3e9cc1652cae5b
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=b37029894a22d0f5dd69e5b38a1c30b2
+https://ng.69hub.cc/api/v1/client/subscribe?token=aac6c97c11763e9f663a4cca6b98f7fc
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
+https://12123.org/api/v1/client/subscribe?token=64c27e6ab2ac2f4b4629dcbd39c93556
