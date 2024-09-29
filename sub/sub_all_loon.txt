@@ -1,7 +1,7 @@
-http://66ds.dishujichang.xyz/api/v1/client/subscribe?token=22d16f00edb53675927fe96093c7af1a
+https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
 https://subs.zeabur.app/clash
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=fda8d35f89c5e5afbb16dabfe4d56aa1
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-http://s4.subcsyun.online/api/v1/client/subscribe?token=e793ceb5b8f7fd37c1e9e977d10db626
+https://mc.jiedianxielou.workers.dev/
+https://haitunfree.luodaifan.top/haitunfree
+http://s1.subcsyun.online/api/v1/client/subscribe?token=3f4375945009711cbeae35e99b9a057e
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
