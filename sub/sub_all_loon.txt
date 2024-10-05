@@ -1,5 +1,8 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=239bf6f70499ff0f80ca081f0a831d04
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=879d7a2aff74ce75549ba6d6e817d92c
-http://s1.subcsyun.online/api/v1/client/subscribe?token=111bc949460d4d7a5109d244e7d5e307
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://mc.jiedianxielou.workers.dev/
+https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
+https://9527.bigbigwatermelon.com/api/v1/client/subscribe?token=bf334803b5f594aab2206ad6b060994d
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
