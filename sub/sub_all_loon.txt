@@ -1,6 +1,5 @@
-https://qyoo.aibvs.cn/api/v1/client/subscribe?token=d1238234772e17cc53229bcbb74980ed
-https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
-https://mymy.lanyanyun.co/api/v1/client/subscribe?token=9042139c80c6831d48f24ac2185b368b
-http://s1.subcsyun.online/api/v1/client/subscribe?token=3f4375945009711cbeae35e99b9a057e
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://mc.jiedianxielou.workers.dev/
+https://16th.sub-airport.com/api/v1/client/subscribe?token=f9ff9457723b9583c3e585e2cbf8fb62
+http://s4.subcsyun.online/api/v1/client/subscribe?token=e793ceb5b8f7fd37c1e9e977d10db626
