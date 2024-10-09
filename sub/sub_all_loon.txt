@@ -1,6 +1,7 @@
-https://mc.jiedianxielou.workers.dev/
-https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev
-https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://sub.domiw.com/api/v1/client/subscribe?token=72f048920fda027244c48a392e08611e
-https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
+https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
+https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://591haoka.com/coco-10000TB
+http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
