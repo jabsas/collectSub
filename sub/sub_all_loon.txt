@@ -1,7 +1,5 @@
-https://mc.jiedianxielou.workers.dev/
-https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
 https://subs.zeabur.app/clash
-https://mc.jiedianxielou.workers.dev
-https://ktmcloud.men/api/v1/client/subscribe?token=1aeb406902ce8bab79fa246df04e45c4
-https://591haoka.com/coco-10000TB
+https://mc.jiedianxielou.workers.dev/
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
 http://free.ninecloud.co/api/v1/client/subscribe?token=7a3521e20fdc2a061a52578366ae975b
