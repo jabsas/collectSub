@@ -1,12 +1,3 @@
-http://s2.subcsyun.online/api/v1/client/subscribe?token=6343d52794c212503ed52ec3784f93d9
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
-https://gbtgurl.me/api/v1/client/subscribe?token=546e4735dbf123f782dad5c4729369da
-https://gx.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238bh7
-https://linke.phantasy.life/api/v1/client/subscribe?token=65f8bd6497356cbe1a375e6cf51c4ea2
-https://maho.chipsfuck.fish/api/v1/client/subscribe?token=2cb09e8bb6690258ceadf5cd8e5a57db
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=df6c8f83f5d2b40eda2334475632f856
+https://sub123.71345.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
