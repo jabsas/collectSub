@@ -1,5 +1,5 @@
-https://subs.zeabur.app/clash
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
-https://service-jr6u1e7c-1323936013.hk.tencentapigw.cn/link/J4YIe2xaJGbQIaDa?clash=3
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
+https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
+https://free.ninecloud.co/api/v1/client/subscribe?token=afe275d64d5b2295be847cf4fafe5428
