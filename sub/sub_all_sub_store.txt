@@ -10,6 +10,7 @@ https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96f
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
 https://subs.zeabur.app/clash
+https://service-jr6u1e7c-1323936013.hk.tencentapigw.cn/link/J4YIe2xaJGbQIaDa?clash=3
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
@@ -17,16 +18,16 @@ https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
 https://d1to2me5cb4qc0.cloudfront.net/api/v1/client/subscribe?token=ab2f50f47bf28d3a7ee2dbdcbfda4b86
-https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
 https://too.st/8ug
+https://subhiddify.mmdv2.host/15f34214-d8de-41e9-ba72-93daeafc59ef?sub
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://ki.hello1.xyz/api/v1/client/subscribe?token=9514921204a8d533f29e8ba166f740aa
 https://platform.djjc.cfd/api/v1/client/subscribe?token=a756e6f448bb9feebf03fa8018c06cb8&amp;flag
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
 https://bozhi.591haoka.com/api/v1/client/subscribe/token=598adee7147c414593f29c74cfade831f4d95313f786bb749ca643ea23bb0kbn
-https://ki.hello1.xyz/api/v1/client/subscribe?token=9514921204a8d533f29e8ba166f740aa
 https://sub.sanfen021.xyz/api/v1/client/subscribe?token=10f8989889abc9f0fc6fc550acfa6f91&amp;flag=clash
 https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
@@ -45,6 +46,7 @@ https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c
 https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
 https://wm01dy.wmyun.men/api/v1/client/subscribe?token=c91d2a7db727bb5cb0586e654f3d0948
 https://sub123.71345.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
 https://sub.eyujichang.com/api/v1/client/subscribe?token=0c7b2b8bb2e443bd5e86bc3efd66ddbd
 https://mymy.lanyanyun.co/api/v1/client/subscribe?token=9042139c80c6831d48f24ac2185b368b
 https://sux.lol/api/v1/client/subscribe?token=9c57c11f99a9c0b53d3fc9d7800bef1a
@@ -1178,6 +1180,7 @@ https://service-avmn443l-1312645837.sh.apigw.tencentcs.com/api/v1/client/subscri
 https://service-avmn443l-1312645837.sh.apigw.tencentcs.com/api/v1/client/subscribe?token=f14b9e29d82aa34266f3abfd8f316b59
 https://service-e6np5k91-1312645837.sh.apigw.tencentcs.com/api/v1/client/subscribe?token=f3de60fb1977df11211a90a5f33723a1
 https://service-fy4hli0a-1312645837.nj.apigw.tencentcs.com/api/v1/client/subscribe?token=6f4ee12ffa3d2ea32e0a2361833025fe
+https://service-jr6u1e7c-1323936013.hk.tencentapigw.cn/link/J4YIe2xaJGbQIaDa?clash=3
 https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=a648e23b321ba13e0fff2a777c7746d0
 https://shiyuanyinian.passwallwall.world/api/v1/client/subscribe?token=1beefcc6f5f462bf21d584efa6c0b8f4
 https://sinhvien4g.com/api/v1/client/subscribe?token=937814026671f89a6bf5e188b74900aa

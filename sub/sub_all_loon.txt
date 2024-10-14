@@ -1,5 +1,6 @@
-https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://guanxi.591haoka.com/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b39
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://service-jr6u1e7c-1323936013.hk.tencentapigw.cn/link/J4YIe2xaJGbQIaDa?clash=3
+https://591haoka.com/coco-10000TB
+https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
