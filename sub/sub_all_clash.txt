@@ -1,9 +1,4 @@
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=eb422ab6820bb79f8af2f82c05de5525
-https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=23cd13c2f546ef65d484dfb5fc70a03c
 https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
-https://link1.db-sub.xyz/link/c0m1TKa0rHNSXjP4?list=shadowrocket
-https://sub.czrk168.top/api/v1/client/subscribe?token=135c202776a837a637ec1e03fe0d8102
-https://user.1vpn.sbs/api/v1/client/subscribe?token=6f5241982cdfdc7dbe0bbcc381e8b7da
-https://www.dabai.in/link/qrWBdYEZPKr61KkM?list=shadowrocket
+https://zqjc.org/api/v1/client/subscribe?token=90bf1e7381a3e9597b8b0bcb69028fc2&amp;types=vless
