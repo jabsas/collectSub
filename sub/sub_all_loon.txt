@@ -1,3 +1,6 @@
 https://subs.zeabur.app/clash
-https://sub1.liangxinjichang.com/api/v1/client/subscribe?token=6b5f134f027fc08d0031cbd20ec43c2f
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc35bd6223ebe7f446f
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
