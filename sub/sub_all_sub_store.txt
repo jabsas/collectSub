@@ -1,6 +1,10 @@
 -- play_list --
 
 
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=5524b09a0c31c745b208a95daa2fc1f5
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=87ac36beeb72ab1d00e20ea4646f7a93
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=8aa7fae2aa09afef367610b7d1cde3a1
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=a9236b831f8019a4914004d9dabca481
 https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
 https://mc.jiedianxielou.workers.dev
 https://mc.jiedianxielou.workers.dev/
@@ -45,13 +49,20 @@ https://smallairport-first-sub.top/api/v1/client/subscribe?token=accedcd63928dbc
 https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
 https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
 https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=f59aa2267fb2438a903802066568c972
 https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
 https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
+https://sub123.71345.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=5dab5133e457850cbf99507eb4d687e0
 https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=f5bc22005796dfccb69d10bec1e1f8f2
-https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=0760bb28173ccd9e23439f0fb97f834b
 https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
+https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
 https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=c097aa209f8544db707e0eeb6c497d28
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=113ea211f3a4c0810ba9cc30ff9436d6
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=326448df01dd944eb5dd70523961a84c
 https://gbtgurl.me/api/v1/client/subscribe?token=3f6db7017f0d251d7d156a114a48a4ee
 https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=df6c8f83f5d2b40eda2334475632f856
 https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
@@ -338,6 +349,16 @@ https://api.acaisbest.shop/api/v1/client/subscribe?token=8c688dd0c67cfa63f989f06
 https://api.acaisbest.shop/api/v1/client/subscribe?token=ea7046282fc195883735eb31b9cbc8f4
 https://api.bigme.online:8211/api/v1/client/subscribe?token=6674c05d3297078394f93ece18e5be9c
 https://api.fanss.vip/link/HsszgxYX4oQolvvB?clash=1
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=0760bb28173ccd9e23439f0fb97f834b
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=113ea211f3a4c0810ba9cc30ff9436d6
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=326448df01dd944eb5dd70523961a84c
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=5524b09a0c31c745b208a95daa2fc1f5
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=5dab5133e457850cbf99507eb4d687e0
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=87ac36beeb72ab1d00e20ea4646f7a93
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=8aa7fae2aa09afef367610b7d1cde3a1
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=a9236b831f8019a4914004d9dabca481
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=c097aa209f8544db707e0eeb6c497d28
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=f59aa2267fb2438a903802066568c972
 https://api.hy2.lol/api/v1/client/subscribe?token=336a097e9e5cee2dcbf83ae1d085954c
 https://api.ktcat.online/ktcat?token=2cc26c1a876569ac0f0fe1a07c92e769
 https://api.ktcat.online/ktcat?token=ba53b9678b3b53b03041bfec7888bd62
