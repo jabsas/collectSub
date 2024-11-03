@@ -1,7 +1,5 @@
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=113ea211f3a4c0810ba9cc30ff9436d6
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5GOt/M?ZAooYr7lYau4ry02F8?BKuGCNY0QGPM/hYqGN7dIrl8r9Z63?rx6krx4?ndLQP5pMOJjsmMIkWq53/n/wkbkB/fIQvrwUhMqbRw8
-https://getinfo.bigbigwatermelon.com/api/v1/client/subscribe?token=df6c8f83f5d2b40eda2334475632f856
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=5dab5133e457850cbf99507eb4d687e0
+https://dingyue.trojanws.xyz/api/v1/client/subscribe?token=40f7985b72395792f4c7cf86898d4f5f
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://mc.jiedianxielou.workers.dev
+https://ac59a7cd-11af-3e35-a098-b785688ec627.aliyunsub.com/link/1DswsoSCjJpogBnA?sub=3&amp;extend=1
