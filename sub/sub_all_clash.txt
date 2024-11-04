@@ -1,7 +1,9 @@
-https://api.fenghuolun.xyz/api/v1/client/subscribe?token=5524b09a0c31c745b208a95daa2fc1f5
-https://dzpd.jiedianxielou.workers.dev/api/v1/client/subscribe?token=bf64cd2b19ee10e66068fd94e335af79
-https://gbtgurl.me/api/v1/client/subscribe?token=3f6db7017f0d251d7d156a114a48a4ee
-https://gs.kkhhddnn.cn/api/v1/client/subscribe?token=c33b8a8de9ebc42ab121dc150ce3158a
-https://mc.jiedianxielou.workers.dev
-https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
-https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=6ea1bb60db4923beb1bb0214524aa652
+https://api.fenghuolun.xyz/api/v1/client/subscribe?token=c097aa209f8544db707e0eeb6c497d28
+https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
+https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://mc.jiedianxielou.workers.dev/
+https://qingchayun.icu/api/v1/client/subscribe?token=80418297fba5a4f4ac7f21cdcf847e6d
+https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
