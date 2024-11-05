@@ -1,5 +1,6 @@
-https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://mc.jiedianxielou.workers.dev
+https://music.easygourl.xyz/link/vs68cXJ8nCtMD0yucOtoLTy2yKqdiT5D?config=all
+https://music.easygourl.xyz/link/IZL3EGvwN2i704vhJXXDAIWhzSnU6NGM?client=clash
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://subscribe511295.fengqun.info/api/v1/client/subscribe?token=e33d1b99e2099eea6a9395cd2979136a
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://mc.jiedianxielou.workers.dev
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://hongxingdl.com/hxvip?token=f1c9d67d69add8b03f8ef8613caec477
