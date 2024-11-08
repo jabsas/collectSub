@@ -1,8 +1,4 @@
-https://sub.cjcloud.cc/api/v1/client/subscribe?token=f0f3bfe984d260e8d7fc39bdc495f782
-https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://gbtgurl.me/api/v1/client/subscribe?token=3f6db7017f0d251d7d156a114a48a4ee
-https://hongxingdl.com/hxvip?token=75540cdc521f31aa0df46a6fa73be722
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://sub123.71345.xyz/api/v1/client/subscribe?token=ba1d0c5044be749390ee0eb2e6af88e3
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://mc.jiedianxielou.workers.dev
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
