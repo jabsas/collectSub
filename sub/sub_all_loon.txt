@@ -1,5 +1,6 @@
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://subscribe511295.fengqun.info/api/v1/client/subscribe?token=e33d1b99e2099eea6a9395cd2979136a
-https://mc.jiedianxielou.workers.dev/
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://mc.jiedianxielou.workers.dev
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
