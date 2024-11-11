@@ -1,7 +1,9 @@
 https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
-https://fn1.170809.xyz/api/v1/client/subscribe?token=d0e40e7ce88e354269b14e2c999820c2
-https://hsaii.mejd.cn/api/v1/client/subscribe?token=a4989d7753cfeba8e4b1fa96383228ea
-https://l.db-link01.top/link/mcRDCTAfHQXPjJhu?list=shadowrocket
-https://maho.chipsfuck.fish/api/v1/client/subscribe?token=2cb09e8bb6690258ceadf5cd8e5a57db
-https://sub.miaolianyun.vip/mly_sub?token=017f70e313654618f05256ef4b1230ee
-https://www.cwy-water.us.kg/api/v1/client/subscribe?token=daa0f9c43c5b7f91a08aee21dab0138c
+https://getafreenode.com/subscribe/?uuid=5af5e263-f03e-4329-a4c5-9aac626efdc2
+https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023&amp;flag=meta
+https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
+https://sub.miaolianyun.vip/mly_sub?token=543d8a7f9dab1896ff80671a71bc514e
+https://sub.miaolianyun.vip/mly_sub?token=bb8d2654de827e86cee36879fd3c5697
+https://subs.zeabur.app/clash
+https://xs.mashiroshina.top/api/v1/client/subscribe?token=307cc562689201ef52ffde46732b6b9d
