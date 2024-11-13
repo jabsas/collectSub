@@ -1,5 +1,6 @@
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://a1.8jiasu.com/api/v1/client/subscribe?token=fe6b4b8e17135129f6836a85c1d63083
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://ac59a7cd-11af-3e35-a098-b785688ec627.aliyunsub.com/link/1DswsoSCjJpogBnA?sub=3&amp;extend=1
