@@ -1,6 +1,5 @@
-https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
 https://a1.8jiasu.com/api/v1/client/subscribe?token=fe6b4b8e17135129f6836a85c1d63083
-https://b.jiedianxielou.workers.dev/api/v1/client/subscribe?token=lyzFWcWwki0vg5GOt/M?ZAooYr7lYau4ry02F8?BKuGCNY0QGPM/hYqGN7dIrl8r9Z63?rx6krx4?ndLQP5pMOJjsmMIkWq53/n/wkbkB/fIQvrwUhMqbRw8
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://mc.jiedianxielou.workers.dev
+https://sub.nodeup.top/IBMQR/MXW62/JK?token=91bf4ef97b726c0d7f403c575f30ed66
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
+https://study.jaycloud11111.top/study?token=ea9d115179b89ad752737bceaf1d1ce6
