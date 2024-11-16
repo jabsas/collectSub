@@ -1,7 +1,3 @@
-https://dxapp.jmvks.cn/api/v1/client/subscribe?token=e29720c6300475f1248037aecc71cfc8#%E5%A4%A7%E7%86%8A%F0%9F%90%BB
+https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
 https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://zlxz.80jm.com/api/v1/client/subscribe?token=4d6d5c35e94119dfd0c71c6b2793ad62
-https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=1df19eb36b48ca575ce86efb8267ada0
-https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
+https://subscription-gov.lianjiasub.work/api/v1/client/subscribe?token=8eb147c5861c200e33574ab7234dfd40
