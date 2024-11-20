@@ -1,10 +1,5 @@
-https://dy.huidu718.com/dingyue?token=7c15024bde31a5f9cdef6725d02f2546
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
-https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://mc.jiedianxielou.workers.dev/
 https://dy.huidu718.com/dingyue?token=6bcb5cd413ea62b68c0ad83ff9b71c5e
-https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
-https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
+https://api.liltjay.ip-ddns.com/TQWMYCWH2D
+https://koumakan.quickline.top/api/v1/client/subscribe?token=bf150ec580d53d03c6997e8624e2e7cd
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
