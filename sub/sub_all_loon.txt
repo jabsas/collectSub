@@ -1,5 +1,3 @@
-https://dy.huidu718.com/dingyue?token=6bcb5cd413ea62b68c0ad83ff9b71c5e
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-https://api.liltjay.ip-ddns.com/TQWMYCWH2D
-https://koumakan.quickline.top/api/v1/client/subscribe?token=bf150ec580d53d03c6997e8624e2e7cd
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://dy.huidu718.com/dingyue?token=2740c926586fbf7126ba718063411a79
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
