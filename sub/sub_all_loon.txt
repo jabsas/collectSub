@@ -1,2 +1,8 @@
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://www.dabai.in/link/XrDZWXX4ZEJ6A4Xm?clash=1
+https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
