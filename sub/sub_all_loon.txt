@@ -1,5 +1,8 @@
-https://www.catssr.top/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
-https://www.catssr.xyz/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
-https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://www.catssr.one/api/v1/client/subscribe?token=2f36e87157bf9fc79bce325bc6e804c3
+https://cloudfisher.net/jsk34?token=e5916b09811c8e5071ea910b88c54f37
 https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://dd.moonriver.cfd/api/v1/client/subscribe?token=2f357d08492582d684f8493f1aa0967c
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
