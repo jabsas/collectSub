@@ -1,3 +1,5 @@
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
-https://sub123.71345.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+http://em7.buzz/v3/subscr?id=377bf036b6b24867bf3adbeb24a90326
+https://www.kuaidog008.top/api/v1/client/subscribe?token=09266cd2f72f9f6a82ca249d1147aa37
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
