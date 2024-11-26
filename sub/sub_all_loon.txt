@@ -1,6 +1,7 @@
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
 http://one.bblinks.top/user/gameservers?token=b9cc6a27b42a70106a881f5f24f3cb17
-https://sub123.71345.xyz/api/v1/client/subscribe?token=95388132afab15570d496c96fe99474d
+https://csgo.fask511.cfd/api/v1/client/subscribe?token=f14e52e1b15c6547e982b23481533e87
 https://vot.981176.xyz/api/v1/client/subscribe?token=b5a9324106ed2028e3565ac78a35e8b7
-https://mc.jiedianxielou.workers.dev/
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
