@@ -1,5 +1,8 @@
-http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
-https://ap.niaodi.top/niao?token=cdaa1b1f44005a4ed020ea98e001d0c5
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://www.kuaidog008.top/api/v1/client/subscribe?token=fc4f70aa06a9987cfd2b1a4c52117c24
+https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
+https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://ss.81dlg.com/dy/ss?token=e2f5bcc06458c550cdb0fcd89508d33f
+https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
+https://ttc01.xyz/api/v1/client/subscribe?token=de369ae7689b67e8cc6267ea5b020372
+https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
+https://www.sstank.top/link/u6n48bednngklddq?sub=3
