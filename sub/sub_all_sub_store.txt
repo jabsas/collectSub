@@ -14,6 +14,7 @@ http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 https://damp-mode-4de5.6006101.workers.dev/sub?url=https%3A%2F%2Ftkpotc.xyz%2F%3FL2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg%2FZXE9d2luZG93cyZ1cms9YWY0NTYzY2EtZWQxNS03ODk2LWIyMzItOTdycDAzZjY4NGRiJm1tPTQ1NjMyJjY5&amp;expand=true&amp;emoji=true&amp;list=false&amp;udp=false&amp;tfo=false&amp;scv=false
 https://damp-mode-4de5.6006101.workers.dev/sub?url=https%3A%2F%2Ftkpotc.xyz%2F%3FL2Rvd25sb2FkQ29uZmlnL0NsYXNoLmFzcHg%2FZXE9d2luZG93cyZ1cms9YWY0NTYzY2EtZWQxNS03ODk2LWIyMzItOTdycDAzZjY4NGRiJm1tPTQ1NjMyJjY5&amp;expand=true&amp;emoji=true&amp;list=false&amp;udp=ture&amp;tfo=ture&amp;scv=ture
 https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://ss.81dlg.com/dy/ss?token=7a2553af9f2fb3fb77aa660cfbfbe981
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -24,7 +25,6 @@ https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscr
 https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
 https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
 https://www.catssr.one/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://ss.81dlg.com/dy/ss?token=7a2553af9f2fb3fb77aa660cfbfbe981
 https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=6d356f188634de6f14b70c20488b5079
 https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=d6681ca8e218af8f2ae0699e542e419c#Fastsoks
@@ -34,6 +34,10 @@ https://sub.sanfen018.xyz/api/v1/client/subscribe?token=345e0fd313f9ef93b0ff8476
 https://sub.sanfen018.xyz/api/v1/client/subscribe?token=345e0fd313f9ef93b0ff8476fe54b4cd&amp;flag=clash
 https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
 https://a.aikllc.tech/api/v1/client/subscribe?token=bb0b4de5961dc7baf37398cc24c45eb7
+https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
+https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
+https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
+https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://3dxre.no-mad-world.club/link/4BJUHDdrBdPAQN1U?clash=3
 https://s1.byte33.com/api/v1/client/subscribe?token=cd02e7650835fe1a623fcedb85621924
 https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a68568a
