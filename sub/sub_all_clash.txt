@@ -1,9 +1,7 @@
-http://1.1596666.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
-https://linke.phantasy.life/api/v1/client/subscribe?token=1cc7a298ad12e7ac0dfd87f579da2023
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
+https://pqjc.site/api/v1/client/subscribe?token=77e092e239d1d097a0e7d2cf28b215fc&amp;flag=meta
 https://pqjc.site/api/v1/client/subscribe?token=9e0446eff3b9760877be511303f6e1bf&amp;flag=meta
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=d14d8550cc425bdf8e44e2a6c9951759
+https://s.33y.run/v3/subscr?id=0ba4a24015864a54929c26389c8a4111
 https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009
+https://submit.xz61.cn:23443/api/v1/client/subscribe?token=29e76b78176d9c53a85333df23b38c49
