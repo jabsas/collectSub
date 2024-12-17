@@ -1,8 +1,8 @@
-http://1.1596666.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
-https://config.huojian111.com/link/57BXs2kcnyMZ1sJ3?sub=3
-https://mc.jiedianxielou.workers.dev/
-https://mlshu.xyz/api/v1/client/subscribe?token=2d5203622b2e5405817b922204ab689e
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=836add593609211e0062c535356b5533
-https://update.glados-config.com/clash/478427/f88d37b/72376/glados.yaml
-https://vyyy.vyunyunnode.top/api/v1/client/subscribe?token=56183160241c6711628c210b6bf4c508
+https://a.sdwan.im/api/v1/client/subscribe?token=e78d3e6b5749e0d342b9dc12ac28f6f2
+https://sub.czrk168.top/api/v1/client/subscribe?token=135c202776a837a637ec1e03fe0d8102
+https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=a963a261a3b8c29027a09c36def5b862
+https://pqjc.site/api/v1/client/subscribe?token=e767135e00a58db0af9ab980ab5bebae
+https://sub.xinyo.vip/api/v1/client/subscribe?token=191ff749aef5fc340847cb7b846e8be1
+https://sub1.jiatelin.cyou/api/v1/client/subscribe?token=fa5f8fbbf4612457bce2411d06c8c3d5
+https://www.kuaidog008.top/api/v1/client/subscribe?token=fc4f70aa06a9987cfd2b1a4c52117c24
+https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
