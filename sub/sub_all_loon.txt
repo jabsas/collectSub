@@ -1,7 +1,6 @@
-https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
-https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
 https://mc.jiedianxielou.workers.dev/
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 https://mc.jiedianxielou.workers.dev
-https://tz.vfkum.website/api/v1/client/subscribe?token=495b8f8540a275a58abc64f93ea737f0
-https://vt.louwangzhiyu.xyz/api/v1/client/subscribe?token=15af0f3751d9f46e6d26b79972adf3f4
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=c03752033d7f2b0ba9f1e8ef0b174307
+https://api.otcopusvpn.cc:18008/subclient/subscribe?token=03deb7b786711282ee98acc03d2fa23f
