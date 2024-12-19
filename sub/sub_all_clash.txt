@@ -1,7 +1,8 @@
 http://113.31.116.212:13800/api/v1/client/subscribe?token=b5d84c66256755e551704d05600ada67
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=1356f5110c60f1e8823a0962af290c72
-https://sub-01.767564.xyz/api/v1/client/subscribe?token=de4a0ea7b988afba1a1072a3288d5390
-https://vyyy.vyunyunnode.top/api/v1/client/subscribe?token=56183160241c6711628c210b6bf4c508
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
+https://api.xinyo.vip/api/v1/client/subscribe?token=731485d80bbbde226e16ffac57a57554
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
+https://ipngc.no-mad-world.club/link/nnaCD6oVR3L5GrBq?shadowrocket=1
+https://oss.pithecia.com/api/v1/client/subscribe?token=483fcb626307bfbe1b4e67b6cdad87b7
+https://pqjc.site/api/v1/client/subscribe?token=0939e59e6b3abecd8cc17b90a33dd963&amp;flag=meta
+https://sub.xinyo.vip/api/v1/client/subscribe?token=3378f3d5f9ab4d07d898ecb9132546a7
