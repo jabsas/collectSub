@@ -1,6 +1,2 @@
-https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://mc.jiedianxielou.workers.dev/
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
-https://gbtgurl.me/api/v1/client/subscribe?token=01187f2b47200eb4794f3cb803666494
-https://suba.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
+https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
+https://ch.louwangzhiyu.xyz/api/v1/client/subscribe?token=04db78dcb0f6b116580df1baea147a54
