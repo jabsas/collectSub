@@ -1,10 +1,4 @@
-http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd
-https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=1a1412046a5696fc9596b737e668d7a5
-https://api.xinyo.vip/api/v1/client/subscribe?token=5a563d7330dd13ce16ec909ea4257548
-https://dy-1.smjcdh.com/api/v1/client/subscribe?token=6b3b00e21caf1d26f6d02435f8417c7c
-https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://jixingnetwork.sbs/api/v1/client/subscribe?token=bb6c1f203b9e3e565125f3b78c611794
-https://l.db-link01.top/link/mqQ5gNhWbR2TBtSo?list=shadowrocket
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://update.glados-config.com/clash/453205/fa870f5/25488/glados.yaml
-https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
+https://awacloud.online/api/v1/client/subscribe?token=b2729693ba778553f104da87351a59cf
+https://lmaff01.lmspeed.co/api/v1/client/subscribe?token=328c67cf5463a7c51f835e30469912a6
+https://mc.jiedianxielou.workers.dev/
+https://mojie.app/api/v1/client/subscribe?token=ce77d629eb0bcea28739ffefa5620218
