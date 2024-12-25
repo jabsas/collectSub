@@ -1,10 +1,5 @@
-https://api.xinyo.vip/api/v1/client/subscribe?token=b0e5f918cf3c088dcfa65bf1f0a40ba1
-https://cdn1711437153.ppgnginx.com/api/v1/client/subscribe?token=37536af5f39e95dc9aed38399fac8ad4
-https://dadada.acaisbest.com/api/v1/client/subscribe?token=9f1ca63122dc9d3c647c4c06022455d5
-https://pqjc.site/api/v1/client/subscribe?token=efffc74cd3815fad0d7a0584ca04595c&amp;flag=clash
-https://pqjc.site/api/v1/client/subscribe?token=f79982973562058dc448831a9e495c25
-https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
-https://st-sub.fly.dev/v2b/fast/api/v1/client/subscribe?token=111995bc7081abfb6d65b73f702deef7&amp;flag
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a
-https://www.catssr.host/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
-https://yuxi.fanqiev2.work/link/WZiTiXIEk5BO5944?sub=1
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
+https://rxxqa.no-mad-world.club/link/j7an2TTYPEdL9qGO?clash=3&amp;extend=1
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
+https://sub.xinyo.vip/api/v1/client/subscribe?token=3378f3d5f9ab4d07d898ecb9132546a7
+https://sub123.71345.xyz/api/v1/client/subscribe?token=1d73eb21795d2cf86595b7f9161f266f
