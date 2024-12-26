@@ -1,5 +1,5 @@
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://38.181.25.67/api/v1/client/subscribe?token=9fbba2d5e199b0a8fb1fb3f27538c3e4
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
-https://mc.jiedianxielou.workers.dev/
+https://569cdn.1010520.click/api/v1/client/subscribe?token=3bdc20e810ec852986e69a90dd9e1da7
+https://linke.phantasy.life/api/v1/client/subscribe?token=0072d7d5b225b936675b2f6d5e87d9de
+https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
