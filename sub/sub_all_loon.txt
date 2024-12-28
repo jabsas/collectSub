@@ -1,4 +1,4 @@
-https://c3.notesync.org/api/v1/client/subscribe?token=70Q8pahCchpkgN1rTSBS9aV3hScI6RoN
-http://6bsub.zhunchuanpb.com/api/v1/client/subscribe?token=16023278f7dd0a98aa927bf2648b6a7c
+https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
 https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
-https://52pokemon.xz61.cn/api/v1/client/subscribe?token=ec8f3d1fceff1bee0bba56e98bc01254
