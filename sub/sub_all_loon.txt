@@ -1,5 +1,4 @@
 https://ajiao-esq.pages.dev/api/v1/client/subscribe/token=9e48312624d64c219f8e7u9af55b4k238b66
 https://submit.xz61.cn:23443/api/v1/client/subscribe?token=7bf4252b5e940a087f4f1bb649053427
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415
-https://nn8qozmu.nn8qozmu.top/api/v1/client/subscribe?token=858a1ac7be61175c2af5a26c7da77e52
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc
+https://dy.kuailejc.xyz/api/v1/client/subscribe?token=6523907bc4b84d76f356caf235328de0
